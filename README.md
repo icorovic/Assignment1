@@ -1,2 +1,3 @@
 # Assignment1
-RMIT IT Assignment
+Igor Corovic
+S3799257
